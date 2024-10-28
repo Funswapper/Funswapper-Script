@@ -16,16 +16,14 @@
   
 ---
 
-## 🚀 Community
-
-Get the latest updates, additional support by joining our [**Discord Server**](https://discord.gg/46XKGKy2V4).
-
----
-
 ## ⚠️ Disclaimer
 
 **⚠️ Disclaimer:** **I am not responsible for in-game bans! Use this script at your own risk.**
 
-<p>
+---
+
+<p align="center">
   Much ❤️ for using my script!
 </p>
+
+**Join the Funswapper Discord Server for updates and support!** [Discord Link](https://discord.gg/46XKGKy2V4)
