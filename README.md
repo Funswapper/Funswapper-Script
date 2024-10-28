@@ -1,7 +1,8 @@
 # <img src="https://github.com/Funswapper/Funswapper-Script/blob/main/Webp.png" alt="Funswapper Logo" width="32"/> Funswapper
 
-**Funswapper** is a **free** script designed for *Counter Blox*-based games on Roblox, giving you access to exclusive in-game customizations.
+**Funswapper** is a **free** skin changer script designed for *Counter Blox*-based games on Roblox, giving you access to custom in-game customizations.
 
+---
 
 ## ✨ Features
 
@@ -13,10 +14,11 @@
 - **Custom Arms**
 - **Custom Emotes**
   
+---
 
 ## ⚠️ Disclaimer
 
-**⚠️ Disclaimer:** **I am not responsible for in-game bans! Use this script at your own risk.**
+**I am not responsible for in-game bans! Use this script at your own risk.**
 
 ---
 
