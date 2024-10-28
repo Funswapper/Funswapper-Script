@@ -2,7 +2,6 @@
 
 **Funswapper** is a **free** script designed for *Counter Blox*-based games on Roblox, giving you access to exclusive in-game customizations.
 
----
 
 ## ✨ Features
 
@@ -14,13 +13,11 @@
 - **Custom Arms**
 - **Custom Emotes**
   
----
 
 ## ⚠️ Disclaimer
 
 **⚠️ Disclaimer:** **I am not responsible for in-game bans! Use this script at your own risk.**
 
----
 
 <p align="center">
   <strong>Join the Funswapper Discord Server for updates and support!</strong> <a href="https://discord.gg/46XKGKy2V4">Discord Link</a>
