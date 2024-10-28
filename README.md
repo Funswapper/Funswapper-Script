@@ -26,8 +26,6 @@ Get the latest updates, additional support by joining our [**Discord Server**](h
 
 **⚠️ Disclaimer:** **I am not responsible for in-game bans! Use this script at your own risk.**
 
----
-
-<p align="center">
+<p>
   Much ❤️ for using my script!
 </p>
