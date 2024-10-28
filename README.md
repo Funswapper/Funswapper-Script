@@ -18,6 +18,7 @@
 
 **⚠️ Disclaimer:** **I am not responsible for in-game bans! Use this script at your own risk.**
 
+---
 
 <p align="center">
   <strong>Join the Funswapper Discord Server for updates and support!</strong> <a href="https://discord.gg/46XKGKy2V4">Discord Link</a>
