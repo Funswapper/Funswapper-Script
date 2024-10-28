@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  Much ❤️ for using my script!
+  <strong>Join the Funswapper Discord Server for updates and support!</strong> <a href="https://discord.gg/46XKGKy2V4">Discord Link</a>
 </p>
 
 <p align="center">
-**Join the Funswapper Discord Server for updates and support!** [Discord Link](https://discord.gg/46XKGKy2V4)
+  Much ❤️ for using my script!
 </p>
