@@ -26,4 +26,6 @@
   Much ❤️ for using my script!
 </p>
 
+<p align="center">
 **Join the Funswapper Discord Server for updates and support!** [Discord Link](https://discord.gg/46XKGKy2V4)
+</p>
