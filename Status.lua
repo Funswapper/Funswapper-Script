@@ -8,5 +8,3 @@ local FSStatus = {
   84957635803107 = "allow"; --[CB Source 2 Star Studios Forever]
   17586052747 = "allow"; --[CB Reimagined V2 DEVR0LEX]
 }
-
-return FSStatus 
