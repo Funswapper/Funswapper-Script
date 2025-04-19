@@ -1,3 +1,4 @@
+print("test")
 local UA,Ffa,Lc,ue
 FE={}
 ue,UA={[-5365]=30627,[-30884]=-28021},function(Mb)
