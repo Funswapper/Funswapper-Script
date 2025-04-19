@@ -1,4 +1,3 @@
-print("ag")
 local iC,SN,en,gC,QV
 Qu={}
 SN,iC={[-21988]=-10991,[6075]=-29142},function(MK)
