@@ -1,5 +1,3 @@
--- This script was protected using the MoonVeil Obfuscator v1.0.5 [https://moonveil.cc]
-
 local UA,Ffa,Lc,ue
 FE={}
 ue,UA={[-5365]=30627,[-30884]=-28021},function(Mb)
