@@ -1,4 +1,4 @@
-
+print("a")
 local Hc,yf,ee,ha,if_
 rc={}
 Hc,ha={[6201]=-13704,[-29578]=-11764},function(Pe)
